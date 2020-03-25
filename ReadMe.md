@@ -27,7 +27,7 @@ Next navigate to the location you cloned the Repository.
 ----------------------------
 
 ## Visuals
-***![Zoo Diagram](/images/LAB06image.jpg?raw=true "ZooDiagram")***
+***![Zoo Diagram](/LAB06-BuildZoon/Images/Lab06image.jpg?raw=true "ZooDiagram")***
 
 ##### Application Start
 
